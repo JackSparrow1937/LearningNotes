@@ -15,12 +15,4 @@
 * [【译】Flexbox如何工作——结合清晰炫彩的动画gif解析](https://github.com/HecateDK/LearningNotes/issues/18)
 
 
-test 1
-
-test 2
-
-test 3
-
-test 4
-
-test 6
+什么东西呀。
